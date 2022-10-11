@@ -1,0 +1,24 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "Learning typescript Typechain",
+  "main": "index.js",
+  "scripts": {
+    "prestart": "tsc",
+    "start": "node index.js",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihorsavytskyi/typechain.git"
+  },
+  "keywords": [
+    "typechain"
+  ],
+  "author": "I.Savytskyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ihorsavytskyi/typechain/issues"
+  },
+  "homepage": "https://github.com/ihorsavytskyi/typechain#readme"
+}
